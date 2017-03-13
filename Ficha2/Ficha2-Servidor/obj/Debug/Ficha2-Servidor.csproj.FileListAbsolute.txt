@@ -1,0 +1,6 @@
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha2\Ficha2-Servidor\bin\Debug\Ficha2-Servidor.exe.config
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha2\Ficha2-Servidor\bin\Debug\Ficha2-Servidor.exe
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha2\Ficha2-Servidor\bin\Debug\Ficha2-Servidor.pdb
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha2\Ficha2-Servidor\obj\Debug\Ficha2-Servidor.exe
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha2\Ficha2-Servidor\obj\Debug\Ficha2-Servidor.pdb
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha2\Ficha2-Servidor\obj\Debug\Ficha2-Servidor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\Utilizador\OneDrive - Instituto Politécnico de Leiria\1ano\2semestre\Segurança\Ficha1\Ficha1\Ficha1\bin\Debug\Ficha1.exe.config
+C:\Users\Utilizador\OneDrive - Instituto Politécnico de Leiria\1ano\2semestre\Segurança\Ficha1\Ficha1\Ficha1\bin\Debug\Ficha1.exe
+C:\Users\Utilizador\OneDrive - Instituto Politécnico de Leiria\1ano\2semestre\Segurança\Ficha1\Ficha1\Ficha1\bin\Debug\Ficha1.pdb
+C:\Users\Utilizador\OneDrive - Instituto Politécnico de Leiria\1ano\2semestre\Segurança\Ficha1\Ficha1\Ficha1\obj\Debug\Ficha1.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\OneDrive - Instituto Politécnico de Leiria\1ano\2semestre\Segurança\Ficha1\Ficha1\Ficha1\obj\Debug\Ficha1.Form1.resources
+C:\Users\Utilizador\OneDrive - Instituto Politécnico de Leiria\1ano\2semestre\Segurança\Ficha1\Ficha1\Ficha1\obj\Debug\Ficha1.Properties.Resources.resources
+C:\Users\Utilizador\OneDrive - Instituto Politécnico de Leiria\1ano\2semestre\Segurança\Ficha1\Ficha1\Ficha1\obj\Debug\Ficha1.csproj.GenerateResource.Cache
+C:\Users\Utilizador\OneDrive - Instituto Politécnico de Leiria\1ano\2semestre\Segurança\Ficha1\Ficha1\Ficha1\obj\Debug\Ficha1.exe
+C:\Users\Utilizador\OneDrive - Instituto Politécnico de Leiria\1ano\2semestre\Segurança\Ficha1\Ficha1\Ficha1\obj\Debug\Ficha1.pdb
+C:\Users\Utilizador\OneDrive - Instituto Politécnico de Leiria\1ano\2semestre\Segurança\Ficha1\Ficha1\Ficha1\bin\Debug\security.jpg
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha1\Ficha1\bin\Debug\Ficha1.exe.config
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha1\Ficha1\obj\Debug\Ficha1.exe
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha1\Ficha1\obj\Debug\Ficha1.pdb
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha1\Ficha1\bin\Debug\security.jpg
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha1\Ficha1\bin\Debug\Ficha1.exe
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha1\Ficha1\bin\Debug\Ficha1.pdb
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha1\Ficha1\obj\Debug\Ficha1.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha1\Ficha1\obj\Debug\Ficha1.Form1.resources
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha1\Ficha1\obj\Debug\Ficha1.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha1\Ficha1\obj\Debug\Ficha1.csproj.GenerateResource.Cache
