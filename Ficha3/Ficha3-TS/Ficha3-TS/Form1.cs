@@ -18,6 +18,7 @@ namespace Ficha3_TS {
 
         private byte[] key;
         private byte[] iv;
+        private byte[] bytes;
 
         private void btEncrypt_Click(object sender, EventArgs e) {
             using(AesCryptoServiceProvider aes = new AesCryptoServiceProvider()) {
@@ -33,6 +34,7 @@ namespace Ficha3_TS {
                     using(CryptoStream cs = new CryptoStream(ms, aes.CreateEncryptor(), CryptoStreamMode.Write)) {
                         cs.Write(dados, 0, dados.Length);
                     }
+                    bytes = ms.ToArray();
                     dadosEnc = ms.ToArray();
                 }
                 // 3º mostrar os dados cifrados
@@ -48,7 +50,8 @@ namespace Ficha3_TS {
 
                 // cifrar
                 // 1º obter os dados a cifrar
-                byte[] dados = Encoding.UTF8.GetBytes(tbEncrypted.Text);
+                //byte[] dados = Encoding.UTF8.GetBytes(tbEncrypted.Text);
+                byte[] dados = this.bytes;
                 // 2º aplicar o algoritmo de símetrico
                 byte[] dadosDe = new byte[dados.Length];
                 int bytesread = 0;
@@ -58,7 +61,7 @@ namespace Ficha3_TS {
                     }
                 }
                 // 3º mostrar os dados cifrados
-                tbEncrypted.Text = Encoding.UTF8.GetString(dadosDe, 0, bytesread);
+                tbDecrypted.Text = Encoding.UTF8.GetString(dadosDe, 0, bytesread);
 
             }
         }
