@@ -1,1 +1,9 @@
 C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\Ficha3\Ficha3-TS\Ficha3-TS\bin\Debug\Ficha3-TS.exe.config
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\Ficha3\Ficha3-TS\Ficha3-TS\bin\Debug\Ficha3-TS.exe
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\Ficha3\Ficha3-TS\Ficha3-TS\bin\Debug\Ficha3-TS.pdb
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\Ficha3\Ficha3-TS\Ficha3-TS\obj\Debug\Ficha3-TS.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\Ficha3\Ficha3-TS\Ficha3-TS\obj\Debug\Ficha3_TS.Form1.resources
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\Ficha3\Ficha3-TS\Ficha3-TS\obj\Debug\Ficha3_TS.Properties.Resources.resources
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\Ficha3\Ficha3-TS\Ficha3-TS\obj\Debug\Ficha3-TS.csproj.GenerateResource.Cache
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\Ficha3\Ficha3-TS\Ficha3-TS\obj\Debug\Ficha3-TS.exe
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\Ficha3\Ficha3-TS\Ficha3-TS\obj\Debug\Ficha3-TS.pdb
