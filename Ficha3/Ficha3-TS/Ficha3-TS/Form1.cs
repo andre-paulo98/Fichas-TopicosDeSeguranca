@@ -17,8 +17,7 @@ namespace Ficha3_TS {
 
         private void btEncrypt_Click(object sender, EventArgs e) {
             using(AesCryptoServiceProvider aes = new AesCryptoServiceProvider()) {
-                aes.Key;
-                aes.IV;
+
             }
         }
 
