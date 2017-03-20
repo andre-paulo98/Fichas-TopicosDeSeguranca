@@ -38,7 +38,8 @@ namespace Ficha3_TS {
                     dadosEnc = ms.ToArray();
                 }
                 // 3º mostrar os dados cifrados
-                tbEncrypted.Text = Encoding.UTF8.GetString(dadosEnc);
+                //tbEncrypted.Text = Encoding.UTF8.GetString(dadosEnc);
+                tbEncrypted.Text = Convert.ToBase64String(dadosEnc);
 
             }
         }
@@ -50,8 +51,8 @@ namespace Ficha3_TS {
 
                 // cifrar
                 // 1º obter os dados a cifrar
-                //byte[] dados = Encoding.UTF8.GetBytes(tbEncrypted.Text);
-                byte[] dados = this.bytes;
+                byte[] dados = Convert.FromBase64String(tbEncrypted.Text);
+                //byte[] dados = this.bytes;
                 // 2º aplicar o algoritmo de símetrico
                 byte[] dadosDe = new byte[dados.Length];
                 int bytesread = 0;
