@@ -75,6 +75,7 @@
             this.buttonDecrypt.TabIndex = 9;
             this.buttonDecrypt.Text = "Decrypt";
             this.buttonDecrypt.UseVisualStyleBackColor = true;
+            this.buttonDecrypt.Click += new System.EventHandler(this.buttonDecrypt_Click);
             // 
             // tbSymmetricKeyDecrypted
             // 
@@ -133,6 +134,7 @@
             this.buttonEncrypt.TabIndex = 2;
             this.buttonEncrypt.Text = "Encrypt";
             this.buttonEncrypt.UseVisualStyleBackColor = true;
+            this.buttonEncrypt.Click += new System.EventHandler(this.buttonEncrypt_Click);
             // 
             // tbSymmentricKey
             // 
@@ -158,6 +160,7 @@
             this.buttonSavePublicPrivateKey.TabIndex = 14;
             this.buttonSavePublicPrivateKey.Text = "Save PrivatePublicKey.txt";
             this.buttonSavePublicPrivateKey.UseVisualStyleBackColor = true;
+            this.buttonSavePublicPrivateKey.Click += new System.EventHandler(this.buttonSavePublicPrivateKey_Click);
             // 
             // buttonSavePublicKey
             // 
@@ -167,6 +170,7 @@
             this.buttonSavePublicKey.TabIndex = 13;
             this.buttonSavePublicKey.Text = "Save PublicKey.txt";
             this.buttonSavePublicKey.UseVisualStyleBackColor = true;
+            this.buttonSavePublicKey.Click += new System.EventHandler(this.buttonSavePublicKey_Click);
             // 
             // tbBothKeys
             // 
@@ -210,6 +214,7 @@
             this.buttonGenerateKeys.TabIndex = 8;
             this.buttonGenerateKeys.Text = "Generate Keys (Private / Public)";
             this.buttonGenerateKeys.UseVisualStyleBackColor = true;
+            this.buttonGenerateKeys.Click += new System.EventHandler(this.buttonGenerateKeys_Click);
             // 
             // Form1
             // 

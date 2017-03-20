@@ -7,3 +7,12 @@ c:\users\gabriel\documents\visual studio 2015\Projects\FichaPratica4\FichaPratic
 c:\users\gabriel\documents\visual studio 2015\Projects\FichaPratica4\FichaPratica4\obj\Debug\FichaPratica4.csproj.GenerateResource.Cache
 c:\users\gabriel\documents\visual studio 2015\Projects\FichaPratica4\FichaPratica4\obj\Debug\FichaPratica4.exe
 c:\users\gabriel\documents\visual studio 2015\Projects\FichaPratica4\FichaPratica4\obj\Debug\FichaPratica4.pdb
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica4\FichaPratica4\bin\Debug\FichaPratica4.exe.config
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica4\FichaPratica4\obj\Debug\FichaPratica4.exe
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica4\FichaPratica4\obj\Debug\FichaPratica4.pdb
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica4\FichaPratica4\bin\Debug\FichaPratica4.exe
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica4\FichaPratica4\bin\Debug\FichaPratica4.pdb
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica4\FichaPratica4\obj\Debug\FichaPratica4.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica4\FichaPratica4\obj\Debug\FichaPratica4.Form1.resources
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica4\FichaPratica4\obj\Debug\FichaPratica4.Properties.Resources.resources
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica4\FichaPratica4\obj\Debug\FichaPratica4.csproj.GenerateResource.Cache
