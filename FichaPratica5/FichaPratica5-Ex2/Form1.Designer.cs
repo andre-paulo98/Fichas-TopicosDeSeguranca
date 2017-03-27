@@ -66,6 +66,7 @@
             this.buttonFinal.TabIndex = 19;
             this.buttonFinal.Text = "SHA1-TransformFinalBlock";
             this.buttonFinal.UseVisualStyleBackColor = true;
+            this.buttonFinal.Click += new System.EventHandler(this.buttonFinal_Click);
             // 
             // tbInputFinal
             // 
@@ -92,6 +93,7 @@
             this.buttonInput2.TabIndex = 16;
             this.buttonInput2.Text = "SHA1-TransformBlock";
             this.buttonInput2.UseVisualStyleBackColor = true;
+            this.buttonInput2.Click += new System.EventHandler(this.buttonInput2_Click);
             // 
             // buttonInput1
             // 
@@ -101,6 +103,7 @@
             this.buttonInput1.TabIndex = 15;
             this.buttonInput1.Text = "SHA1-TransformBlock";
             this.buttonInput1.UseVisualStyleBackColor = true;
+            this.buttonInput1.Click += new System.EventHandler(this.buttonInput1_Click);
             // 
             // tbInput2
             // 

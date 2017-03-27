@@ -1,1 +1,9 @@
 C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica5\FichaPratica5-Ex2\bin\Debug\FichaPratica5-Ex2.exe.config
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica5\FichaPratica5-Ex2\bin\Debug\FichaPratica5-Ex2.exe
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica5\FichaPratica5-Ex2\bin\Debug\FichaPratica5-Ex2.pdb
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica5\FichaPratica5-Ex2\obj\Debug\FichaPratica5-Ex2.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica5\FichaPratica5-Ex2\obj\Debug\FichaPratica5_Ex2.Form1.resources
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica5\FichaPratica5-Ex2\obj\Debug\FichaPratica5_Ex2.Properties.Resources.resources
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica5\FichaPratica5-Ex2\obj\Debug\FichaPratica5-Ex2.csproj.GenerateResource.Cache
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica5\FichaPratica5-Ex2\obj\Debug\FichaPratica5-Ex2.exe
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\FichaPratica5\FichaPratica5-Ex2\obj\Debug\FichaPratica5-Ex2.pdb
