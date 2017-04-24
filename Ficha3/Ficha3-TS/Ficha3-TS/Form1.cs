@@ -24,7 +24,7 @@ namespace Ficha3_TS {
             using(AesCryptoServiceProvider aes = new AesCryptoServiceProvider()) {
                 this.key = aes.Key;
                 this.iv = aes.IV;
-
+                
                 // cifrar
                 // 1º obter os dados a cifrar
                 byte[] dados = Encoding.UTF8.GetBytes(tbEncrypt.Text);
@@ -37,8 +37,9 @@ namespace Ficha3_TS {
                     bytes = ms.ToArray();
                     dadosEnc = ms.ToArray();
                 }
-                // 3º mostrar os dados cifrados
+                // 3º mostrar os dados cifrados*/
                 //tbEncrypted.Text = Encoding.UTF8.GetString(dadosEnc);
+
                 tbEncrypted.Text = Convert.ToBase64String(dadosEnc);
 
             }
@@ -65,6 +66,19 @@ namespace Ficha3_TS {
                 tbDecrypted.Text = Encoding.UTF8.GetString(dadosDe, 0, bytesread);
 
             }
+        }
+
+        private byte[] symmetricEncrypt(byte[] data, byte[] key, byte[] iv) {
+            byte[] encData;
+            using(AesCryptoServiceProvider aes = new AesCryptoServiceProvider()) {
+                aes.Key = key;
+                aes.IV = iv;
+
+                using(ICryptoTransform crypto = aes.CreateEncryptor()) {
+                    encData = crypto.TransformFinalBlock(data, 0, data.Length);
+                }
+            }
+            return encData;
         }
     }
 }

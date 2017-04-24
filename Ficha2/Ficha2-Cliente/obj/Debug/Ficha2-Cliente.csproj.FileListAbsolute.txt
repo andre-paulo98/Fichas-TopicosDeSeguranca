@@ -4,3 +4,6 @@ C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha2\Ficha2-Cliente\bin\Debug
 C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha2\Ficha2-Cliente\obj\Debug\Ficha2-Cliente.exe
 C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha2\Ficha2-Cliente\obj\Debug\Ficha2-Cliente.pdb
 C:\Users\Utilizador\Desktop\Topicos de Seguranca\Ficha2\Ficha2-Cliente\obj\Debug\Ficha2-Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\Ficha2\Ficha2-Cliente\bin\Debug\Ficha2-Cliente.exe.config
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\Ficha2\Ficha2-Cliente\obj\Debug\Ficha2-Cliente.exe
+C:\Users\Utilizador\Documents\GitHub\Fichas-TopicosDeSeguranca\Ficha2\Ficha2-Cliente\obj\Debug\Ficha2-Cliente.pdb
