@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EI.SI;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -9,10 +10,13 @@ using System.Threading.Tasks;
 namespace Ficha2_Cliente {
     class Program {
 
+        private static ProtocolSI protocolSI;
         private const int PORT = 9999;
 
         static void Main(string[] args) {
 
+
+            protocolSI = new ProtocolSI();
             TcpClient tcpClient = null;
             NetworkStream networkStream = null;
 
@@ -35,7 +39,8 @@ namespace Ficha2_Cliente {
 
                 string msg = "Hello from client!";
                 byte[] msgByte = Encoding.UTF8.GetBytes(msg);
-                networkStream.Write(msgByte, 0, msgByte.Length);
+                byte[] packet = protocolSI.Make(ProtocolSICmdType.DATA, msgByte);
+                networkStream.Write(packet, 0, packet.Length);
 
 
                 

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EI.SI;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -9,9 +10,11 @@ using System.Threading.Tasks;
 namespace Ficha2_Servidor {
     class Program {
 
+        private static ProtocolSI protocolSI;
         private const int PORT = 9999;
         static void Main(string[] args) {
 
+            protocolSI = new ProtocolSI();
             NetworkStream networkStream = null;
             TcpListener tcpListener = null;
             TcpClient tcpClient = null;
@@ -35,12 +38,20 @@ namespace Ficha2_Servidor {
 
                 #region Receive String Message
 
+
+
                 int bufferSize = tcpClient.ReceiveBufferSize;
-                byte[] buffer = new byte[bufferSize];
+                //byte[] buffer = new byte[bufferSize];
 
-                bytesRead = networkStream.Read(buffer, 0, bufferSize);
+                bytesRead = networkStream.Read(protocolSI.Buffer, 0, protocolSI.Buffer.Length);
+                byte[] packet = protocolSI.GetData();
 
-                Console.WriteLine(Encoding.UTF8.GetString(buffer, 0, bytesRead));
+                if(protocolSI.GetCmdType() === ProtocolSICmdType.DATA) {
+
+                }
+
+                Console.WriteLine(Encoding.UTF8.GetString(packet));
+
 
 
                 // enviar string a dizer ok
